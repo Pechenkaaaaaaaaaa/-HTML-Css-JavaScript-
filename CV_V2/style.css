@@ -68,3 +68,7 @@ main a{
     font-size: 22px;
     text-decoration: none;
 }
+
+.checked{
+    color: #fbff00;
+}
